@@ -1,19 +1,19 @@
 #Author: Sailesh Khadka
 
 
-AWS Three Tier Using Terraform
+    AWS Three Tier Using Terraform
 
-To run manually,
+      To run manually,
 
-Initialize Terraform:
+      Initialize Terraform:
 
-- terraform init
+        - terraform init
 
-Plan the Terraform execution:
+    Plan the Terraform execution:
 
-- terraform plan
+      - terraform plan
 
-Apply the Terraform configuration:
+    Apply the Terraform configuration:
 
-- terraform apply
+      - terraform apply
 
